@@ -24,6 +24,6 @@
 
 ---
 
-- ⚡ Fun fact: I also love **⚽ Football** & **🎮 Gaming**
+- ⚡ Fun fact: I also love **Football ⚽** & **Gaming 🎮**
 
 Thanks for stopping by! ⭐
