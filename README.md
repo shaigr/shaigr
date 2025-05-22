@@ -15,7 +15,6 @@
 
 🛠️ **Tech I enjoy working with**
 - **Rust** 🦀 | **Python** 🐍 | **C++** | **Shell scripting**
-- Strong believer in **Vibe-driven coding** 🎧
 
 ---
 
@@ -25,6 +24,6 @@
 
 ---
 
-- ⚡ Fun fact: I also love Football & Gaming 
+- ⚡ Fun fact: I also love **⚽ Football** & **🎮 Gaming**
 
 Thanks for stopping by! ⭐
